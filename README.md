@@ -1,1 +1,1 @@
-# Sign-Language-detector
+# Sign-Language-Detector
